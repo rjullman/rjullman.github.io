@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bobbyullman.com/page/about/</loc>
+    <loc>http://bobbyullman.com/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://bobbyullman.com/categories/</loc>
+    <loc>http://bobbyullman.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bobbyullman.com/page/</loc>
+    <loc>http://bobbyullman.com/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bobbyullman.com/tags/</loc>
+    <loc>http://bobbyullman.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bobbyullman.com/</loc>
+    <loc>http://bobbyullman.com/</loc>
     <priority>0</priority>
   </url>
   
