@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Think First</title>
+    <link>https://bobbyullman.com/categories/</link>
+    <description>Recent content in Categories on Think First</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>robert.j.ullman@gmail.com (Bobby Ullman)</managingEditor>
+    <webMaster>robert.j.ullman@gmail.com (Bobby Ullman)</webMaster>
+    
+	<atom:link href="https://bobbyullman.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
